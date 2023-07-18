@@ -1,0 +1,109 @@
+version: "2.0"
+nlu:
+- intent: pesquisa_web
+  examples: |
+    - pesquise isso na web
+    - faca uma pesquisa rapida sobre
+    - informacao
+    - por mais detalhe
+    - investigue na web
+    - pesquisa profunda sobre
+    - verificacao online
+    - web
+    - online
+    - quais sao os detalhes deste
+    - descubra mais a respeito disso
+    - o que voce pode achar sobre isso
+    - qual e o significado disto
+    - pesquise mais a respeito disso
+    - o que as pessoas estao comentando sobre isso
+    - quais sao as opinioes a respeito disso
+    - veja o que voce pode achar sobre isso
+
+- intent: busca_questoes
+  examples: |
+    - questao do ENEM
+    - pergunta do vestibular
+    - questao de vestibular antigo
+    - duvida do vestibular
+    - gostaria de ver questao do ENEM
+    - questao de vestibular
+    - mostre uma questao do ENEM para mim
+    - pergunta do ENEM
+    - questao de vestibular
+    - questao do ENEM
+    - questao para o vestibular
+    - duvida do ENEM
+    - questao do vestibular
+    - gostaria de ver uma pergunta do ENEM
+    - duvida do vestibular
+    - questao do ENEM
+    - gostaria de uma questao de vestibular
+    - mostre a questao do ENEM para mim
+
+- intent: verifica_resposta
+  examples: |
+    - confirme a resposta da questao anterior
+    - qual e a alternativa correta
+    - a letra da resposta certa
+    - verifique a resposta para mim
+    - confira a alternativa da questao passada
+    - verifique a letra da resposta
+    - voce pode verificar a resposta
+    - qual e a resposta certa
+    - confirme a alternativa correta
+    - verifique a resposta anterior
+    - a alternativa correta da questao anterior
+    - qual e a letra da resposta correta
+    - verifique a resposta para essa questao
+    - pode confirmar a alternativa correta
+    - verifique a letra correta para mim
+    - confirme a resposta da ultima questao
+    - qual e a alternativa correta para a questao passada
+    - verifique a resposta correta
+    - a letra da resposta anterior
+    - pode verificar a alternativa da ultima questao
+    - confira a resposta da questao para mim
+    - confirme a letra correta da questao anterior
+    - qual e a resposta correta da ultima questao
+    - confirme a alternativa da questao anterior para mim
+    - pode a letra da resposta correta
+    - a alternativa correta da questao anterior era a letra A
+    - a resposta da ultima questao foi B
+    - a letra da resposta da questao anterior era C
+    - o gabarito da questao passada era D
+    - a alternativa correta era E
+
+- intent: chat_padrao
+  examples: |
+    - poderia explicar mais sobre isso
+    - quais sao os conceitos fundamentais de
+    - como isso opera
+    - voce pode me auxiliar a entender
+    - o que isso representa
+    - quais sao os principios de
+    - um exemplo seria
+    - como posso solucionar essa questao
+    - pode me auxiliar com essa questao de exercicio
+    - o que significa essa formula
+    - os procedimentos para resolver essa questao
+    - quais sao as regras para solucionar essa questao
+    - pode me dar um resumo sobre essa questao
+    - preciso de ajuda para compreender essa questao
+    - vamos praticar mais com essa questao
+    - como posso melhorar na resolucao de questoes
+    - quais sao as melhores taticas para resolver questoes
+    - me ajude a revisar essa questao
+    - preciso de orientacao sobre como resolver essa questao
+    - qual e a melhor maneira de aprender a resolver essa questao
+    - vamos revisar o topico de solucao de questoes
+    - me de algumas orientacoes sobre resolucao de questoes
+    - como essa questao se correlaciona com o topico
+    - o que preciso saber sobre a resolucao dessa questao
+    - vamos iniciar a licao sobre essa questao
+    - me ajude a me preparar para o teste de questoes
+    - qual e a tecnica para resolver essa questao
+    - pode me instruir mais sobre resolver questoes
+    - preciso praticar mais com essa questao
+    - pode me explicar essa questao
+    - preciso de uma explicacao mais minuciosa sobre a resolucao dessa questao

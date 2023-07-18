@@ -1,0 +1,49 @@
+{
+  "negar": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {
+      "adeus": 4
+    }
+  },
+  "fornecer_informacao_contato": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 11,
+    "confused_with": {
+      "adeus": 11
+    }
+  },
+  "cumprimentar": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "adeus": 3
+    }
+  },
+  "adeus": {
+    "precision": 0.21739130434782608,
+    "recall": 1.0,
+    "f1-score": 0.3571428571428571,
+    "support": 5,
+    "confused_with": {}
+  },
+  "accuracy": 0.21739130434782608,
+  "macro avg": {
+    "precision": 0.05434782608695652,
+    "recall": 0.25,
+    "f1-score": 0.08928571428571427,
+    "support": 23
+  },
+  "weighted avg": {
+    "precision": 0.04725897920604915,
+    "recall": 0.21739130434782608,
+    "f1-score": 0.07763975155279502,
+    "support": 23
+  }
+}

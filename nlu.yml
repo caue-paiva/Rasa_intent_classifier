@@ -1,0 +1,36 @@
+version: "2.0"
+nlu:
+- intent: cumprimentar
+  examples: |
+    - oi
+    - ola
+    - ei
+
+- intent: negar
+  examples: |
+    - nao
+    - nao quero
+    - nao estou interessado
+    - nao agora
+
+- intent: fornecer_informacao_contato
+  examples: |
+    - Meu nome e Joao. O email e joao@email.com
+    - nome: David email: david@email.com
+    - Claro. Sou Barbara. Meu email e barbara@email.com
+    - Suzana, suzana@email.com
+    - Claro. E Fred. Meu email e fred@email.com.
+    - quero dar minha informacao de contato
+    - fornecer informacao de contato
+    - fornecer outras informacoes
+    - quero fornecer informacao de contato
+    - Posso fornecer algumas informacoes de contato?
+    - preciso fornecer algumas informacoes de contato
+
+- intent: adeus
+  examples: |
+    - adeus
+    - tchau
+    - obrigado, e tudo
+    - nada mais
+    - ate mais

@@ -1,0 +1,113 @@
+version: "2.0"
+nlu:
+- intent: pesquisa_web
+  examples: |
+    - pesquise isso na web
+    - pesquisa rapida sobre
+    - informacao
+    - por mais detalhe
+    - investigue na web
+    - pesquisa profunda sobre
+    - verificacao online
+    - web
+    - online
+    - quais são os detalhes disso
+    - descubra mais sobre isso
+    - o que você pode encontrar sobre isso
+    - qual é o significado disso
+    - pesquise mais sobre isso
+    - o que os outros estao dizendo sobre isso
+    - quais são as opinioes sobre isso
+    - veja o que você pode descobrir sobre isso
+
+- intent: busca_questoes
+  examples: |
+    - questao do enem
+    - pergunta de vestibular
+    - questao de vestibular antigo
+    - pergunta de vestibular
+    - quero ver questao do enem
+    - questao de vestibular
+    - questao do enem para mim
+    - pergunta do enem
+    - vestibular
+    - enem
+    - para o vestibular
+    - pergunta do enem
+    - de vestibular
+    - quero ver pergunta do enem
+    - pergunta de vestibular
+    - quero de vestibular
+    - questao do enem para mim
+    - me de pergunta enem
+    - questao do enem
+    - estilo enem
+    - parecido com enem
+    - parecido com vestibular
+
+- intent: verifica_resposta
+  examples: |
+    - verifique a resposta da questao anterior
+    - qual e a alternativa correta
+    - a letra da resposta certa
+    - confira a resposta para mim
+    - verifique a alternativa da questao passada
+    - confira a letra da resposta
+    - pode verificar a resposta
+    - qual e a resposta certa
+    - verifique a alternativa correta
+    - confira a resposta anterior
+    - a alternativa certa da questao anterior
+    - qual e a letra da resposta correta
+    - verifique a resposta para essa questao
+    - pode confirmar a alternativa correta
+    - confira a letra correta para mim
+    - verifique a resposta da ultima questao
+    - qual e a alternativa certa para a questao passada
+    - confira a resposta correta
+    - a letra da resposta anterior
+    - pode verificar a alternativa da ultima questao
+    - confira a resposta da questao para mim
+    - verifique a letra correta da questao anterior
+    - qual e a resposta correta da ultima questao
+    - confirme a alternativa da questao anterior para mim
+    - pode a letra da resposta correta
+    - a alternativa correta da questao anterior era a letra a
+    - a resposta da ultima questao foi b
+    - a letra da resposta da questao anterior era c
+    - o gabarito da questao passada era d
+    - a alternativa certa era e
+
+- intent: chat_padrao
+  examples: |
+    - me explique mais sobre isso
+    - qual sao os conceitos basicos de
+    - como isso funciona
+    - voce pode me ajudar a entender
+    - o que isso significa
+    - qual sao os principios de
+    - um exemplo de
+    - como posso resolver essa questao
+    - pode me ajudar com essa questao de exercicio
+    - o que e essa formula
+    - os passos para resolver essa questao
+    - qual sao as regras para resolver essa questao
+    - pode me dar um resumo sobre essa questao
+    - preciso de ajuda para entender essa questao
+    - vamos praticar mais essa questao
+    - como posso melhorar em resolver questoes
+    - qual sao as melhores estrategias para resolver questoes
+    - me ajude a revisar essa questao
+    - preciso de conselhos sobre como resolver essa questao
+    - qual e a melhor forma de aprender a resolver essa questao
+    - vamos revisar o topico de resolucao de questoes
+    - me de algumas dicas sobre resolver questoes
+    - como essa questao se relaciona com o topico
+    - o que preciso saber sobre a resolução dessa questao
+    - vamos comecar a licao sobre essa questao
+    - me ajude a preparar para o teste de questoes
+    - qual e a tecnica para resolver essa questao
+    - pode me ensinar mais sobre resolver questoes
+    - preciso praticar mais essa questao
+    - pode me explicar essa questao
+    - preciso de uma explicacao mais detalhada sobre a resolução dessa questao

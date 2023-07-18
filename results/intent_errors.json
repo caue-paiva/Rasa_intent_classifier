@@ -1,0 +1,146 @@
+[
+  {
+    "text": "oi",
+    "intent": "cumprimentar",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.033534934661082726
+    }
+  },
+  {
+    "text": "ola",
+    "intent": "cumprimentar",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.03582795539553435
+    }
+  },
+  {
+    "text": "ei",
+    "intent": "cumprimentar",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.042202541097073255
+    }
+  },
+  {
+    "text": "nao",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.03784306376516575
+    }
+  },
+  {
+    "text": "nao quero",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.012483645249491037
+    }
+  },
+  {
+    "text": "nao estou interessado",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.01290660170077212
+    }
+  },
+  {
+    "text": "nao agora",
+    "intent": "negar",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.017506716560887512
+    }
+  },
+  {
+    "text": "Meu nome e Joao. O email e joao@email.com",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.0005086352591869651
+    }
+  },
+  {
+    "text": "nome: David email: david@email.com",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.016320546325351924
+    }
+  },
+  {
+    "text": "Claro. Sou Barbara. Meu email e barbara@email.com",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.002075467120399369
+    }
+  },
+  {
+    "text": "Suzana, suzana@email.com",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.028387508619643145
+    }
+  },
+  {
+    "text": "Claro. E Fred. Meu email e fred@email.com.",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.004048784884690905
+    }
+  },
+  {
+    "text": "quero dar minha informacao de contato",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.0051254142123839256
+    }
+  },
+  {
+    "text": "fornecer informacao de contato",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.003969702320933639
+    }
+  },
+  {
+    "text": "fornecer outras informacoes",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.016016275802396653
+    }
+  },
+  {
+    "text": "quero fornecer informacao de contato",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.0008739534753221678
+    }
+  },
+  {
+    "text": "Posso fornecer algumas informacoes de contato?",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.0010296953759263165
+    }
+  },
+  {
+    "text": "preciso fornecer algumas informacoes de contato",
+    "intent": "fornecer_informacao_contato",
+    "intent_prediction": {
+      "name": "adeus",
+      "confidence": 0.000842997950923682
+    }
+  }
+]

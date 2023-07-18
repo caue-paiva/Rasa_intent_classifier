@@ -1,0 +1,31 @@
+version: "2.0"
+nlu:
+- intent: pesquisa_web
+  examples: |
+    - pesquise  web 
+    - procure  web
+    - pesquise online
+    - busque  internet
+
+
+- intent: busca_questoes
+  examples: |
+    - enem
+    - vestibular
+    - parecida com ENEM
+    - ENEM
+
+- intent: verifica_resposta
+  examples: |
+    - verifique resposta
+    - qual alternativa correta
+    - mostre letra resposta certa
+    - confira resposta para mim
+
+- intent: chat_padrao
+  examples: |
+    - explique
+    - ajudar entender
+    - exemplo
+    - resolver
+  

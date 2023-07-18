@@ -1,0 +1,3 @@
+models/nlu-20230717-221643.tar.gz // melhor modelo PT-BR usando o dataset que eu criei
+
+
